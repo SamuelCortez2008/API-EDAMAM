@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\..\\Desgaste de Revestimiento"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true,
+		"python.pythonPath": "C:\\Users\\Samuel\\.conda\\envs\\ML_ECNScientific\\python.exe",
+		"jupyter.jupyterServerType": "local"
+	}
+}
