@@ -1,0 +1,69 @@
+Types,Items,ingredient name,quantity,measure,food,weight,food category,image
+Zuni-Inspired Grilled Chicken Salad,0,"1 pound boneless, skinless chicken breasts",1.0,pound,"boneless, skinless chicken breasts",453.59237,Poultry,https://www.edamam.com/food-img/da5/da510379d3650787338ca16fb69f4c94.jpg
+Zuni-Inspired Grilled Chicken Salad,1,"3/4 teaspoon kosher salt, divided, plus more for salad",0.75,teaspoon,kosher salt,3.6406250001846567,Condiments and sauces,https://www.edamam.com/food-img/694/6943ea510918c6025795e8dc6e6eaaeb.jpg
+Zuni-Inspired Grilled Chicken Salad,2,"1 tablespoon olive oil, plus more for salad",1.0,tablespoon,olive oil,13.5,Oils,https://www.edamam.com/food-img/4d6/4d651eaa8a353647746290c7a9b29d84.jpg
+Zuni-Inspired Grilled Chicken Salad,3,"1/4 cup aioli or 1/4 cup mayo + 1 small garlic clove, grated",0.25,cup,aioli,57.75,condiments and sauces,https://www.edamam.com/food-img/577/577308a0422357885c94cc9b5f1f1862.jpg
+Zuni-Inspired Grilled Chicken Salad,4,"Zest and juice of 1 lemon, plus more for salad",1.0,<unit>,lemon,58.0,fruit,https://www.edamam.com/food-img/70a/70acba3d4c734d7c70ef4efeed85dc8f.jpg
+Zuni-Inspired Grilled Chicken Salad,5,"Your favorite greens and fresh herbs, for salad",0.0,,fresh herbs,5.864829950001847,vegetables,https://www.edamam.com/food-img/46a/46a132e96626d7989b4d6ed8c91f4da0.jpg
+Steak & Chips Salad,0,750.0g bag frozen potato wedges,750.0,gram,potato,750.0,vegetables,https://www.edamam.com/food-img/651/6512e82417bce15c2899630c1a2799df.jpg
+Steak & Chips Salad,1,1.0 tbsp olive oil,1.0,tablespoon,olive oil,13.5,Oils,https://www.edamam.com/food-img/4d6/4d651eaa8a353647746290c7a9b29d84.jpg
+Steak & Chips Salad,2,"2 pieces sirloin steak , about 350g/12oz in total",2.0,<unit>,sirloin steak,680.0,meats,https://www.edamam.com/food-img/4f1/4f10105d5c8178f25590ca6dfcd37fca.jpg
+Steak & Chips Salad,3,120.0g bag herb salad,120.0,gram,herb,120.0,Condiments and sauces,https://www.edamam.com/food-img/89b/89b37a04e46e052671d73addcb84aa51.jpg
+Steak & Chips Salad,4,"6.0 tbsp honey and mustard salad dessing , bought or homemade",6.0,tablespoon,honey,126.0,,https://www.edamam.com/food-img/198/198c7b25c23b4235b4cc33818c7b335f.jpg
+Steak & Chips Salad,5,"6.0 tbsp honey and mustard salad dessing , bought or homemade",6.0,tablespoon,mustard,93.3749999984214,Condiments and sauces,https://www.edamam.com/food-img/e23/e238f2e4cfa6aa1a30f46dc73e7344eb.jpg
+Shrimp Salad,0,"1 pound medium-sized shrimp, cooked, shelled and de-veined",1.0,pound,shrimp,453.59237,seafood,https://www.edamam.com/food-img/ebe/ebe2888b894f48d19762e1d606db0206.jpg
+Shrimp Salad,1,1 tablespoon minced onion,1.0,tablespoon,onion,10.0,vegetables,https://www.edamam.com/food-img/205/205e6bf2399b85d34741892ef91cc603.jpg
+Shrimp Salad,2,1 tablespoon minced parsley,1.0,tablespoon,parsley,3.8,vegetables,https://www.edamam.com/food-img/46a/46a132e96626d7989b4d6ed8c91f4da0.jpg
+Shrimp Salad,3,Salt and pepper to taste,0.0,,Salt,3.714854219998453,Condiments and sauces,https://www.edamam.com/food-img/694/6943ea510918c6025795e8dc6e6eaaeb.jpg
+Shrimp Salad,4,Salt and pepper to taste,0.0,,pepper,1.8574271099992266,Condiments and sauces,https://www.edamam.com/food-img/c6e/c6e5c3bd8d3bc15175d9766971a4d1b2.jpg
+Shrimp Salad,5,1 tablespoon lemon juice,1.0,tablespoon,lemon juice,15.2499999997422,100% juice,https://www.edamam.com/food-img/e31/e310952d214e78a4cb8b73f30ceeaaf2.jpg
+Shrimp Salad,6,½ cup mayonnaise,0.5,cup,mayonnaise,115.5,condiments and sauces,https://www.edamam.com/food-img/577/577308a0422357885c94cc9b5f1f1862.jpg
+Shrimp Salad,7,1½ tablespoons salad oil,1.5,tablespoon,oil,21.0,Oils,https://www.edamam.com/food-img/07e/07e106ab3536d57428e5c46d009038f8.jpg
+Strawberry Hazelnut Salad,0,8 oz salad greens,8.0,ounce,salad greens,226.796185,vegetables,https://www.edamam.com/food-img/b6d/b6d9f3052d27a3c71220cfa55c6f0a42.jpg
+Strawberry Hazelnut Salad,1,8 oz strawberries,8.0,ounce,strawberries,226.796185,fruit,https://www.edamam.com/food-img/00c/00c8851e401bf7975be7f73499b4b573.jpg
+Strawberry Hazelnut Salad,2,2 oz Hazelnuts,2.0,ounce,Hazelnuts,56.69904625,plant-based protein,https://www.edamam.com/food-img/136/13615074edcc12bf37a30987ebfec6dc.jpg
+Strawberry Hazelnut Salad,3,3 oz Balsamic Vinegar,3.0,ounce,Balsamic Vinegar,85.048569375,Condiments and sauces,https://www.edamam.com/food-img/90a/90a1f211768e166ecfff19e8b4747498.jpg
+Strawberry Hazelnut Salad,4,1 tsp Sugar,1.0,teaspoon,Sugar,4.2,sugars,https://www.edamam.com/food-img/ecb/ecb3f5aaed96d0188c21b8369be07765.jpg
+Strawberry Hazelnut Salad,5,4 oz Extra Virgin Olive Oil,4.0,ounce,Extra Virgin Olive Oil,113.3980925,Oils,https://www.edamam.com/food-img/4d6/4d651eaa8a353647746290c7a9b29d84.jpg
+Strawberry Hazelnut Salad,6,4 x salt and pepper,4.0,<unit>,pepper,465.15555555555557,vegetables,https://www.edamam.com/food-img/629/629dc9fddc1f8aec27fa337dd6ce2b7c.jpg
+Grilled Tofu Salad With Miso Dressing,0,14 ounces extra firm tofu,14.0,ounce,firm tofu,396.89332375000004,plant-based protein,https://www.edamam.com/food-img/c44/c44799e4beb77540acad305ac9f9ef7e.jpg
+Grilled Tofu Salad With Miso Dressing,1,2 teaspoons cooking oil,2.0,teaspoon,cooking oil,9.0,Oils,https://www.edamam.com/food-img/07e/07e106ab3536d57428e5c46d009038f8.jpg
+Grilled Tofu Salad With Miso Dressing,2,"2 tablespoons Miso & Easy (3 teaspoons miso paste + 3 teaspoons hot water), divided",2.0,tablespoon,miso paste,34.0,plant-based protein,https://www.edamam.com/food-img/352/3525e5a38bb13c74aa34ef6c0273bf33.jpg
+Grilled Tofu Salad With Miso Dressing,3,1 teaspoon soy sauce,1.0,teaspoon,soy sauce,5.3,plant-based protein,https://www.edamam.com/food-img/f56/f562e461eb0618f367f538b836c17b82.jpg
+Grilled Tofu Salad With Miso Dressing,4,1/2 teaspoon grated fresh ginger,0.5,teaspoon,fresh ginger,1.0,vegetables,https://www.edamam.com/food-img/b9c/b9c06ef451ef29513880af0a53ebbaa6.jpg
+Grilled Tofu Salad With Miso Dressing,5,1 tablespoon water,1.0,tablespoon,water,14.786764781,water,https://www.edamam.com/food-img/5dd/5dd9d1361847b2ca53c4b19a8f92627e.jpg
+Grilled Tofu Salad With Miso Dressing,6,1/2 teaspoon sesame oil,0.5,teaspoon,sesame oil,2.25,Oils,https://www.edamam.com/food-img/b87/b874ddcfb6770adc7a155355a902ffb8.jpg
+Grilled Tofu Salad With Miso Dressing,7,1/2 teaspoon sugar,0.5,teaspoon,sugar,2.1,sugars,https://www.edamam.com/food-img/ecb/ecb3f5aaed96d0188c21b8369be07765.jpg
+Grilled Tofu Salad With Miso Dressing,8,"1 tablespoon oil for salad (olive, canola, vegetable, grapeseed)",1.0,tablespoon,oil,14.0,Oils,https://www.edamam.com/food-img/07e/07e106ab3536d57428e5c46d009038f8.jpg
+Grilled Tofu Salad With Miso Dressing,9,4 handfuls of salad greens + any other salad vegetables of your choice,4.0,handful,salad greens,18.0,vegetables,https://www.edamam.com/food-img/b6d/b6d9f3052d27a3c71220cfa55c6f0a42.jpg
+Chicken Salad-Stuffed Tomatoes,0,"4 plum tomatoes, halved",4.0,<unit>,plum tomatoes,248.0,vegetables,https://www.edamam.com/food-img/23e/23e727a14f1035bdc2733bb0477efbd2.jpg
+Chicken Salad-Stuffed Tomatoes,1,2 teaspoons sliced fresh chives,2.0,teaspoon,chives,2.0,vegetables,https://www.edamam.com/food-img/f3f/f3f48643a924ba174b894e979cb48620.jpg
+Chicken Salad-Stuffed Tomatoes,2,"Freshly ground pepper, to taste",0.0,,pepper,0.855,Condiments and sauces,https://www.edamam.com/food-img/c6e/c6e5c3bd8d3bc15175d9766971a4d1b2.jpg
+Chicken Salad-Stuffed Tomatoes,3,1/4 cup chicken salad,0.25,cup,chicken,35.0,Poultry,https://www.edamam.com/food-img/d33/d338229d774a743f7858f6764e095878.jpg
+Buffalo Chicken Salad,0,2 bag romaine salad mix,2.0,bag,salad mix,520.0,vegetables,https://www.edamam.com/food-img/b6d/b6d9f3052d27a3c71220cfa55c6f0a42.jpg
+Buffalo Chicken Salad,1,1 container Carrot and celery sticks,1.0,container,Carrot,0.0,vegetables,https://www.edamam.com/food-img/121/121e33fce0bb9546ed7d060b6c114e29.jpg
+Buffalo Chicken Salad,2,1 container Carrot and celery sticks,1.0,stick,celery,40.0,vegetables,https://www.edamam.com/food-img/d91/d91d2aed1c36d8fad54c4d7dc58f5a18.jpg
+Buffalo Chicken Salad,3,1 takeout order chicken fingers,1.0,<unit>,chicken,1200.0,Poultry,https://www.edamam.com/food-img/d33/d338229d774a743f7858f6764e095878.jpg
+Buffalo Chicken Salad,4,2 tbsp. cayenne pepper sauce,2.0,tablespoon,pepper sauce,28.19999999809289,canned soup,https://www.edamam.com/food-img/946/946c38a4c278da4361d2615d653d685a.jpg
+Buffalo Chicken Salad,5,½ c. blue cheese salad dressing,0.5,cup,blue cheese salad dressing,122.5,Condiments and sauces,https://www.edamam.com/food-img/06f/06fde1f5c1a30fbc87e0a5c0052ba4dd.jpg
+Buffalo Chicken Salad recipes,0,2 bag romaine salad mix,2.0,bag,salad mix,520.0,vegetables,https://www.edamam.com/food-img/b6d/b6d9f3052d27a3c71220cfa55c6f0a42.jpg
+Buffalo Chicken Salad recipes,1,1 container Carrot and celery sticks,1.0,container,Carrot,0.0,vegetables,https://www.edamam.com/food-img/121/121e33fce0bb9546ed7d060b6c114e29.jpg
+Buffalo Chicken Salad recipes,2,1 container Carrot and celery sticks,1.0,stick,celery,40.0,vegetables,https://www.edamam.com/food-img/d91/d91d2aed1c36d8fad54c4d7dc58f5a18.jpg
+Buffalo Chicken Salad recipes,3,1 takeout order chicken fingers,1.0,<unit>,chicken,1200.0,Poultry,https://www.edamam.com/food-img/d33/d338229d774a743f7858f6764e095878.jpg
+Buffalo Chicken Salad recipes,4,2 tbsp. cayenne pepper sauce,2.0,tablespoon,pepper sauce,28.19999999809289,canned soup,https://www.edamam.com/food-img/946/946c38a4c278da4361d2615d653d685a.jpg
+Buffalo Chicken Salad recipes,5,0.50 c. blue cheese salad dressing,0.5,cup,blue cheese salad dressing,122.5,Condiments and sauces,https://www.edamam.com/food-img/06f/06fde1f5c1a30fbc87e0a5c0052ba4dd.jpg
+Washing up free salad,0,"1 can sardines, preferably in olive oil",1.0,can,olive,252.00000000426004,canned fruit,https://www.edamam.com/food-img/822/8221f2141e8dafd469414b20777735ca.jpg
+Washing up free salad,1,1 bag washed salad leaves,1.0,<unit>,salad leaves,313.0,vegetables,https://www.edamam.com/food-img/79e/79e8dd0ee229cbc32171ec362ce93a37.jpg
+Washing up free salad,2,1 lemon,1.0,<unit>,lemon,58.0,fruit,https://www.edamam.com/food-img/70a/70acba3d4c734d7c70ef4efeed85dc8f.jpg
+Washing up free salad,3,"Small handful pinenuts, optional",1.0,handful,pinenuts,12.65625,plant-based protein,https://www.edamam.com/food-img/52f/52fa29cb9d1ab6502f137a98c8a63f09.jpg
+Quinoa Salad,0,1 cup quinoa,1.0,cup,quinoa,170.0,grains,https://www.edamam.com/food-img/b62/b622239a214b3bd9f63c8e93e6e9cde6.jpg
+Quinoa Salad,1,2 cups chicken or vegetable stock,2.0,cup,chicken or vegetable stock,480.0,canned soup,https://www.edamam.com/food-img/26a/26a10c4cb4e07bab54d8a687ef5ac7d8.jpg
+Quinoa Salad,2,"1 hothouse cucumber, diced",1.0,<unit>,cucumber,301.0,vegetables,https://www.edamam.com/food-img/501/5015da0e5fc2b384696b3d949aefef86.jpg
+Quinoa Salad,3,2 scallions,2.0,<unit>,scallions,30.0,vegetables,https://www.edamam.com/food-img/b89/b89986ed6aa466285bdd99bac34b3c46.jpg
+Quinoa Salad,4,"1/2 cup roasted red pepper, diced",0.5,cup,roasted red pepper,67.5,vegetables,https://www.edamam.com/food-img/7f8/7f874d848dbb46bf1dfa5418564a736c.jpeg
+Quinoa Salad,5,"1/4 cup flat leaf parsley, finely chopped",0.25,cup,parsley,15.0,vegetables,https://www.edamam.com/food-img/46a/46a132e96626d7989b4d6ed8c91f4da0.jpg
+Quinoa Salad,6,1 tablespoon fines herbs (recommended: Spice Island),1.0,tablespoon,herbs,2.7,Condiments and sauces,https://www.edamam.com/food-img/89b/89b37a04e46e052671d73addcb84aa51.jpg
+Quinoa Salad,7,1/4 cup crumbled feta cheese,0.25,cup,feta cheese,37.5,Cheese,https://www.edamam.com/food-img/37e/37ef3e404b1c02bf4707cb82010732b8.jpg
+Quinoa Salad,8,3 tablespoons slivered almonds,3.0,tablespoon,almonds,26.812499999546674,plant-based protein,https://www.edamam.com/food-img/6c2/6c2dc21adf11afc4c8d390ee2f651e56.jpg
+Quinoa Salad,9,9 cups spring salad mix,9.0,cup,salad mix,324.0,vegetables,https://www.edamam.com/food-img/b6d/b6d9f3052d27a3c71220cfa55c6f0a42.jpg
+Quinoa Salad,10,1/4 cup light roasted garlic and balsamic salad dressing,0.25,cup,salad dressing,62.5,Condiments and sauces,https://www.edamam.com/food-img/241/24178db68d42001caf980f8f209534cb.jpg
